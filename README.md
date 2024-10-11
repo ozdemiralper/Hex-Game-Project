@@ -1,7 +1,5 @@
 # HexGame
 
-![HexGame Logo](screenshots/Ekran görüntüsü 2024-10-11 213922.png)
-
 ## 📖 Description
 
 **HexGame** is a two-player Hex strategy game developed using JavaFX. Players compete on a hexagonal board of their chosen size, aiming to connect their respective sides to win. The objective of the game is to reach the opposite side of the board using your colored pieces.
@@ -98,10 +96,3 @@ Contributions are welcome! Please follow these steps to contribute to the projec
 
 Please ensure your contributions adhere to the project's coding standards and include appropriate documentation.
 
-## 📸 Screenshots
-
-![Main Menu](src/main/resources/images/main_menu.png)
-*Main Menu Screen*
-
-![Game Screen](src/main/resources/images/game_screen.png)
-*Game Screen*
